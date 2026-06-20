@@ -1,0 +1,3 @@
+# NEw Project
+This project is just  created from local system 
+For linear regression algo
